@@ -10,7 +10,6 @@
 - 🦓 Construindo projetos com **LangChain, RAG e sistemas multiagentes**
 - 🧠 Fascinado pela intersecção entre **Matemática e Inteligência Artificial**
 - 🎓 Graduando em **Licenciatura em Matemática** no IFSP
-- 🏃 Maratonista em treinamento — meta: sub 3h30 em julho!
 
 ---
 
